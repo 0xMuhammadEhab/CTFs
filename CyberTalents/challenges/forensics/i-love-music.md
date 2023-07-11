@@ -1,0 +1,1 @@
+- import the WAVE audio into Sonic Visualiser then add spectrogram layer and you will find the flag
